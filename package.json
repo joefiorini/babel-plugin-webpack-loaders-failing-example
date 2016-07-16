@@ -1,0 +1,30 @@
+{
+  "name": "babel-plugin-webpack-loaders-failing-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-webpack-loaders": "^0.7.0",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-stage-2": "^6.11.0",
+    "babel-register": "^6.9.0",
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "node-sass": "^3.8.0",
+    "sass-loader": "^4.0.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1"
+  },
+  "dependencies": {
+    "normalize.css": "^4.2.0",
+    "react": "^15.2.1",
+    "react-addons-css-transition-group": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "react-toolbox": "^1.0.2"
+  }
+}
